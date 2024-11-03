@@ -1,5 +1,5 @@
 ## Hello World 🌎
-[![Contributions Badge](https://badges.strrl.dev/contributions/all/pseudoyu?style=flat-square)](https://github.com/neoyuyu)
+[![Contributions Badge](https://badges.strrl.dev/contributions/all/neoyuyu?style=flat-square)](https://github.com/neoyuyu)
 
 - 🌱 I’m currently learning how to C properly.
 - 📫 How to reach me: non-CO₂ smoke signals have proven effective in most cases.
