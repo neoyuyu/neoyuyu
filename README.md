@@ -1,16 +1,19 @@
 ## Hi there 👋
 
 <!--
-**neoyuyu/neoyuyu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p><h3 align="center"></h3></p>
+<p color="pink">
+ ___  ___   _______    ___        ___        ________          ___       __    ________   ________   ___        ________     
+|\  \|\  \ |\  ___ \  |\  \      |\  \      |\   __  \        |\  \     |\  \ |\   __  \ |\   __  \ |\  \      |\   ___ \    
+\ \  \\\  \\ \   __/| \ \  \     \ \  \     \ \  \|\  \       \ \  \    \ \  \\ \  \|\  \\ \  \|\  \\ \  \     \ \  \_|\ \   
+ \ \   __  \\ \  \_|/__\ \  \     \ \  \     \ \  \\\  \       \ \  \  __\ \  \\ \  \\\  \\ \   _  _\\ \  \     \ \  \ \\ \  
+  \ \  \ \  \\ \  \_|\ \\ \  \____ \ \  \____ \ \  \\\  \       \ \  \|\__\_\  \\ \  \\\  \\ \  \\  \|\ \  \____ \ \  \_\\ \ 
+   \ \__\ \__\\ \_______\\ \_______\\ \_______\\ \_______\       \ \____________\\ \_______\\ \__\\ _\ \ \_______\\ \_______\
+    \|__|\|__| \|_______| \|_______| \|_______| \|_______|        \|____________| \|_______| \|__|\|__| \|_______| \|_______|
+</p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on learning.
+- 🌱 I’m currently learning how to C properly.
+- 📫 How to reach me: non-CO₂ smoke signals have proven effective in most cases.
+- ⚡ Fun fact: there are computers on moon, think about it.
 -->
