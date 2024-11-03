@@ -1,8 +1,8 @@
-## Hi there 👋
+## So...
 
-<!--
-<p><h3 align="center"></h3></p>
-<p color="pink">
+<p align="center">
+ <h3 align="center">🧑🏻‍💻 Learning 🧑🏻‍💻</h3>
+</p>
  ___  ___   _______    ___        ___        ________          ___       __    ________   ________   ___        ________     
 |\  \|\  \ |\  ___ \  |\  \      |\  \      |\   __  \        |\  \     |\  \ |\   __  \ |\   __  \ |\  \      |\   ___ \    
 \ \  \\\  \\ \   __/| \ \  \     \ \  \     \ \  \|\  \       \ \  \    \ \  \\ \  \|\  \\ \  \|\  \\ \  \     \ \  \_|\ \   
@@ -12,8 +12,6 @@
     \|__|\|__| \|_______| \|_______| \|_______| \|_______|        \|____________| \|_______| \|__|\|__| \|_______| \|_______|
 </p>
 
-- 🔭 I’m currently working on learning.
 - 🌱 I’m currently learning how to C properly.
 - 📫 How to reach me: non-CO₂ smoke signals have proven effective in most cases.
 - ⚡ Fun fact: there are computers on moon, think about it.
--->
