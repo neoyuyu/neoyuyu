@@ -5,5 +5,5 @@
 [![Commits Badge](https://badges.strrl.dev/commits/monthly/neoyuyu?style=flat-square)](https://github.com/neoyuyu)
 
 - 🌱 I’m currently learning how to C properly.
-- 📫 How to reach me: non-CO₂ smoke signals have proven effective in most cases.
+- 📫 How to reach me: smoke signals or email
 - ⚡ Fun fact: there are computers on moon, think about it.
